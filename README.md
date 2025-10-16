@@ -22,4 +22,5 @@ O relatório visa **incentivar a diretoria** a questionar :
 - os motivos por trás de quedas pontuais no desempenho,  
 - e quem é o principal público consumidor de cada segmento.
 
-Essa visão integrada contribui diretamente para a definição de **estratégias mais assertivas e orientadas por dados**.
+### Ferramentas Utilizada
+DAX e Power BI
