@@ -14,7 +14,8 @@ O relatório foi desenvolvido com o objetivo de fornecer uma visão estratégica
 - **Lucro por Ano:** fornece uma perspectiva clara da evolução financeira e do crescimento da empresa ao longo dos anos.  
 - **Categoria de Produto:** evidencia quais categorias mais geram valor e receita, auxiliando na priorização de investimentos e campanhas de marketing.
 
-<img width="1323" height="750" alt="image" src="https://github.com/user-attachments/assets/ec91840e-a4c3-4ac1-b5c0-a47c29e21f6a" />
+<img width="1262" height="713" alt="image" src="https://github.com/user-attachments/assets/a1db9ffc-6900-46ae-8039-a1dc72e54e37" />
+
 
 
 ### 🧠 Conclusão
